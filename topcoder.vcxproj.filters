@@ -30,6 +30,15 @@
     <ClInclude Include="WidgetRepairs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TVTower.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageMess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Aaagmnrs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

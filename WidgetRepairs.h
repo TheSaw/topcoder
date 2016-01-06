@@ -12,7 +12,7 @@ public:
 
 int WidgetRepairs::days(std::vector<int> arrivals, int numPerDay)
 {
-    arrivals.resize(1000, 0);
+    arrivals.resize(10000, 0);
 
     for (int i = 0; i < arrivals.size() - 1; ++i)
     {

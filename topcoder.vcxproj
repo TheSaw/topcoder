@@ -119,10 +119,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Aaagmnrs.h" />
     <ClInclude Include="Bullets.h" />
     <ClInclude Include="Execution.h" />
     <ClInclude Include="Lexer.h" />
+    <ClInclude Include="MessageMess.h" />
     <ClInclude Include="Pricing.h" />
+    <ClInclude Include="TVTower.h" />
     <ClInclude Include="WidgetRepairs.h" />
   </ItemGroup>
   <ItemGroup>
