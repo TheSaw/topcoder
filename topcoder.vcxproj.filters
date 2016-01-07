@@ -39,6 +39,9 @@
     <ClInclude Include="Aaagmnrs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="BinaryCode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

@@ -120,6 +120,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Aaagmnrs.h" />
+    <ClInclude Include="BinaryCode.h" />
     <ClInclude Include="Bullets.h" />
     <ClInclude Include="Execution.h" />
     <ClInclude Include="Lexer.h" />
