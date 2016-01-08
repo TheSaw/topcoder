@@ -56,8 +56,9 @@ inline void Aaagmnrs::removeSpaces(std::string & s)
         if (s[i] == ' ')
         {
             s.erase(i, 1);
+            --i;
         }
     }
 }
 
-#endif
+#endif TOPCODER_AAAGMNRS_H_
