@@ -40,6 +40,12 @@
     <ClInclude Include="WidgetRepairs.h">
       <Filter>Headers</Filter>
     </ClInclude>
+    <ClInclude Include="ExerciseMachine.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangularGrid.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Headers">

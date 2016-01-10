@@ -124,10 +124,12 @@
     <ClInclude Include="Bullets.h" />
     <ClInclude Include="Complaints.h" />
     <ClInclude Include="Execution.h" />
+    <ClInclude Include="ExerciseMachine.h" />
     <ClInclude Include="GameOfLife.h" />
     <ClInclude Include="Lexer.h" />
     <ClInclude Include="MessageMess.h" />
     <ClInclude Include="Pricing.h" />
+    <ClInclude Include="RectangularGrid.h" />
     <ClInclude Include="Time.h" />
     <ClInclude Include="TVTower.h" />
     <ClInclude Include="WidgetRepairs.h" />
