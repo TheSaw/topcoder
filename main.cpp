@@ -4,11 +4,12 @@
 
 #include "GameOfLife.h"
 #include "RectangularGrid.h"
+#include "CCipher.h"
 
 int main()
 {
-    RectangularGrid R;
-    long long res = R.countRectangles(10, 10);
+    CCipher C;
+    C.decode("ABCDEFGHIJKLMNOPQRSTUVWXYZ", 10);
 
     system("PAUSE");
 }

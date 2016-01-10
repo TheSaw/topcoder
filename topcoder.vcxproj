@@ -122,6 +122,7 @@
     <ClInclude Include="Aaagmnrs.h" />
     <ClInclude Include="BinaryCode.h" />
     <ClInclude Include="Bullets.h" />
+    <ClInclude Include="CCipher.h" />
     <ClInclude Include="Complaints.h" />
     <ClInclude Include="Execution.h" />
     <ClInclude Include="ExerciseMachine.h" />
